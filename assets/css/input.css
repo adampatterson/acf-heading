@@ -1,0 +1,9 @@
+h1.adam-headings,
+.acf-field-heading label {
+    color: #23282d;
+    font-size: 26px;
+}
+
+.inside > .acf-field-group > .acf-label > label {
+    display: none;
+}
