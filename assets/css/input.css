@@ -1,9 +1,23 @@
-h1.adam-headings,
-.acf-field-heading label {
-    color: #23282d;
+.edit-post-meta-boxes-area #poststuff .stuffbox > h3,
+.edit-post-meta-boxes-area #poststuff h2.hndle,
+.edit-post-meta-boxes-area #poststuff h3.hndle {
     font-size: 26px;
 }
 
-.inside > .acf-field-group > .acf-label > label {
+.acf-field.acf-field-group > .acf-label > label {
+    font-size: 22px;
+}
+
+h1.adam-headings,
+.acf-field-heading label {
+    font-size: 20px;
+}
+
+.acf-flexible-content .layout .acf-fc-layout-handle {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.acf-field-object-heading .acf-field-setting-name {
     display: none;
 }
